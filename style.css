@@ -1,0 +1,32 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+.box1{
+    width: 50%;
+    height: 700px;
+    padding-top: 33px;
+    /* background-color: rgb(78, 121, 145); */
+}
+table{
+    margin-top: 80px;
+}
+table, th, td{
+    border: 1.5px solid white;
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    width: 400px;
+    height: 80px;
+    border-radius: 15px;
+    background-color: rgb(58, 165, 228);
+}
+td{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(247, 168, 23);
+}
+.whitetd{
+    background-color: rgb(196, 224, 245);
+}
